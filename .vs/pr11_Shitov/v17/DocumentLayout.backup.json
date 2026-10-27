@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pr31\\pr11_Shitov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0681FC36-BBA5-4428-BBDB-12799AD3AA59}|pr11_Shitov.vcxproj|C:\\pr31\\pr11_Shitov\\pr11_Shitov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0681FC36-BBA5-4428-BBDB-12799AD3AA59}|pr11_Shitov.vcxproj|solutionrelative:pr11_Shitov.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pr11_Shitov.cpp",
+              "DocumentMoniker": "C:\\pr31\\pr11_Shitov\\pr11_Shitov.cpp",
+              "RelativeDocumentMoniker": "pr11_Shitov.cpp",
+              "ToolTip": "C:\\pr31\\pr11_Shitov\\pr11_Shitov.cpp",
+              "RelativeToolTip": "pr11_Shitov.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-20T09:25:33.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

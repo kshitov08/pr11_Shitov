@@ -1,0 +1,5 @@
+﻿  pr11_Shitov.cpp
+C:\pr31\pr11_Shitov\pr11_Shitov.cpp(36,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\pr31\pr11_Shitov\pr11_Shitov.cpp(95,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\pr31\pr11_Shitov\pr11_Shitov.cpp(106,18): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  pr11_Shitov.vcxproj -> C:\pr31\pr11_Shitov\x64\Debug\pr11_Shitov.exe
